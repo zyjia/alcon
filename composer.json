@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
-        "ext-phalcon": "~3.0.2"
+           "phalcon/incubator" : "*"
     },
     "autoload": {
         "psr-4": {"Alcon\\": "src/"}
